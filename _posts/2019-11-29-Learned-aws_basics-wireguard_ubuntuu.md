@@ -1,7 +1,7 @@
 ---
 layout: post
-title: learning GitHubPages, Jekyll, Markdown, SSH-Keys for GIT authentication 
-tags: [wireguard, aws]
+title: learning about AWS and VPN technologies (wiregurad/openvpn/mullvad) 
+tags: [wireguard, aws, mullvad, openvpn]
 ---
 
 # AWS introduction webinar attended
@@ -31,5 +31,10 @@ I used this guide to set it up
 [mullvad app on linux](https://mullvad.net/de/help/install-mullvad-app-linux/)
 
 some screenshots:
+
+the nice desktop app itself
 ![mullvad_vpn_app.png](/images/mullvad_vpn_app.png)
+
+
+this is shown in your notification bar (gnome)
 ![mullvad_vpn_icon.png](/images/mullvad_vpn_icon.png)
