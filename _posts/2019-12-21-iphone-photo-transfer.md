@@ -4,8 +4,6 @@ title: simple things complicated - download iphone photos to your linux computer
 tags: [iphone,photos,videos,linux]
 ---
 
-# simple things complicated - download iphone photos to your linux computer
-
 ## i heard everything is easy and intuitive in the "apple" world
 
 that might be true in case all your it-gadgets are decorated by an apple.
